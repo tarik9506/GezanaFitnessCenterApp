@@ -1,0 +1,6 @@
+{
+  "name": "Gezana Fitness Center",
+  "description": "Offline-first gym management application with localization for English, Amharic, and Tigrigna, featuring members tracking, local SMS notifications, and offline device licensing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
